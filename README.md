@@ -3,7 +3,7 @@
 ## Overview
 This project demonstrates an Automated Parking System with IoT integration using Arduino Uno, IR sensors, Servo motors, and a mobile app. It includes five parking lots with the ability to detect and reserve parking spaces remotely via a mobile app.
 
-![Parking System](iotimg1.JPEG)
+![Parking System](iotimg1.jpeg)
 
 ## Features
 - Five parking lots with individual IR sensors and Servo motors.
@@ -23,7 +23,7 @@ This project demonstrates an Automated Parking System with IoT integration using
 1. Connect the hardware components according to the circuit diagram.
 2. Upload the Arduino sketch (`parking_system.ino`) to the Arduino board.
 
-![Circuit Diagram](iotimg2.JPEG)
+![Circuit Diagram](iotimg2.jpeg)
 
 ## Mobile App
 1. Develop the mobile app using your preferred development platform.
